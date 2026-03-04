@@ -26,6 +26,16 @@ Evaluate: predict on test, calculate MSE (Mean Squared Error) and R².
 Visualization: scatter plot of actual vs predicted, residuals.
 Conclusion.
 
+# Notes
+1. MedInc    - Median income
+2. HouseAge  - Median house age
+3. AveRooms  - Avg rooms per household
+4. AveBedrms - Avg bedrooms per household
+5. Population- Block population
+6. AveOccup  - Avg household members
+7. Latitude  - Geographic location
+8. Longitude - Geographic location
+
 # Project Setup:-
 # Create project directory
 mkdir house_price_prediction
