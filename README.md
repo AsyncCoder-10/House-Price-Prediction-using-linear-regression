@@ -2,10 +2,10 @@
 Supervised learning, feature engineering, evaluation metrics, overfitting, regularization.
 
 
-Project - 1
+# Project - 1
 House Price Prediction using linear regression, train/test split, evaluation metrics MSE and R², feature scaling. Use California Housing dataset. Tools: Python, pandas, scikit-learn, matplotlib.
 
-We'll cover:
+# We'll cover:
 Loading data
 Exploratory Data Analysis (EDA) with matplotlib
 Feature scaling (StandardScaler)
@@ -14,7 +14,7 @@ Linear regression model
 Evaluation: MSE, R²
 Possibly visualizations: actual vs predicted, residuals.
 
-Let's structure the answer:
+# Let's structure the answer:
 Introduction: goal, dataset.
 Setup: import libraries.
 Load dataset: fetch_california_housing, create DataFrame.
@@ -26,7 +26,7 @@ Evaluate: predict on test, calculate MSE (Mean Squared Error) and R².
 Visualization: scatter plot of actual vs predicted, residuals.
 Conclusion.
 
-Project Setup:-
+# Project Setup:-
 # Create project directory
 mkdir house_price_prediction
 cd house_price_prediction
