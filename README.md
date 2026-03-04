@@ -26,3 +26,23 @@ Evaluate: predict on test, calculate MSE (Mean Squared Error) and R².
 Visualization: scatter plot of actual vs predicted, residuals.
 Conclusion.
 
+Project Setup:-
+# Create project directory
+mkdir house_price_prediction
+cd house_price_prediction
+
+# (Optional) Create and activate a virtual environment
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+# Install packages
+pip install -r requirements.txt
+
+Output
+<img width="1267" height="413" alt="image" src="https://github.com/user-attachments/assets/da369dd7-c26d-4502-a0d1-454e0f137418" />
+<img width="1655" height="910" alt="image" src="https://github.com/user-attachments/assets/3c432174-5b65-4418-b070-4a4e196d138d" />
+<img width="1663" height="932" alt="image" src="https://github.com/user-attachments/assets/58c7c16d-38f9-4e10-af71-f63a9728c6db" />
+
+
